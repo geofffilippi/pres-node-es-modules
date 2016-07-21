@@ -6,9 +6,9 @@ Slides from talk given on July 21, 2016 at the Node.js Denver/Boulder/Ft. Collin
 
 >This talk will start with a brief overview and history of modules in JavaScript. We will discuss the ES module standards. Finally, we will look at current and upcoming ES module implementations. Expect to walk away with an understanding of how to use ES modules now in node.
 
-[Markdown]('node-es-modules.md')
+[Markdown](node-es-modules.md)
 
-[PDF]('Node ES Modules.pdf')
+[PDF](Node ES Modules.pdf)
 
 This slideshow was written using [reveal.js](https://github.com/hakimel/reveal.js)
 
